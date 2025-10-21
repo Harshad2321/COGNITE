@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Music, Home, BookOpen } from 'lucide-react'
+import { Music, Home, BookOpen, Flower2 } from 'lucide-react'
 
 const Navbar = ({ patientId, showNavigation = false }) => {
   return (
